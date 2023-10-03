@@ -1,0 +1,15 @@
+body{
+  background-image: url("https://images.pexels.com/photos/267586/pexels-photo-267586.jpeg?auto=compress&cs=tinysrgb&w=600");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  object-fit: cover;
+  height: 100vh;
+}
+h1{
+  font-family: 'Times New Roman', Times, serif;
+}
+.sizee{
+  max-height: 400px;
+    
+}
